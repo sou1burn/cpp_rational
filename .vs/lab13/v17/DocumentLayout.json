@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spike\\source\\repos\\lab13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9E316A-66A0-4590-87CC-DDA41151E14D}|lab13.vcxproj|C:\\Users\\spike\\source\\repos\\lab13\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD9E316A-66A0-4590-87CC-DDA41151E14D}|lab13.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9E316A-66A0-4590-87CC-DDA41151E14D}|lab13.vcxproj|C:\\Users\\spike\\source\\repos\\lab13\\lab13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD9E316A-66A0-4590-87CC-DDA41151E14D}|lab13.vcxproj|solutionrelative:lab13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9E316A-66A0-4590-87CC-DDA41151E14D}|lab13.vcxproj|C:\\Users\\spike\\source\\repos\\lab13\\lab13.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD9E316A-66A0-4590-87CC-DDA41151E14D}|lab13.vcxproj|solutionrelative:lab13.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab13.cpp",
+              "DocumentMoniker": "C:\\Users\\spike\\source\\repos\\lab13\\lab13.cpp",
+              "RelativeDocumentMoniker": "lab13.cpp",
+              "ToolTip": "C:\\Users\\spike\\source\\repos\\lab13\\lab13.cpp",
+              "RelativeToolTip": "lab13.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-16T00:29:13.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab13.h",
+              "DocumentMoniker": "C:\\Users\\spike\\source\\repos\\lab13\\lab13.h",
+              "RelativeDocumentMoniker": "lab13.h",
+              "ToolTip": "C:\\Users\\spike\\source\\repos\\lab13\\lab13.h",
+              "RelativeToolTip": "lab13.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-12-16T00:29:25.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\spike\\source\\repos\\lab13\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\spike\\source\\repos\\lab13\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-16T00:29:08.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
